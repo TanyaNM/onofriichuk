@@ -1,0 +1,27 @@
+body{
+  font-family: sans-serif;
+  background-color: red;
+  
+}
+
+img{
+    width:500px;
+}
+h1{
+    text-align: center;
+}
+.img{
+    display: flex;
+    justify-content: center;
+   
+}
+.img img{
+     margin:10px;
+     border: 4px inset grey;
+}
+h2{
+    text-align: center;
+}
+p{
+    color:;
+}
